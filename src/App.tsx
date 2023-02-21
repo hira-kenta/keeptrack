@@ -3,9 +3,8 @@ import ProjectsPage from './projects/ProjectsPage';
 
 function App() {
   return (
-    <div className='countainer'>
+    <div className='container'>
       <ProjectsPage />
-      <h1>Hello World</h1>
     </div>
   );
 }
